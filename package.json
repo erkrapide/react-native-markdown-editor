@@ -1,5 +1,5 @@
 {
-  "name": "reactnativemarkdowneditor",
+  "name": "react-native-markdown-editor",
   "version": "0.0.1",
   "private": true,
   "main": "main.js",
@@ -10,9 +10,7 @@
     "test:prettier": "prettier-check  --single-quote --jsx-bracket-same-line --trailing-comma all --print-width 100 `find lib -name \"*.js\"`"
     },
   "dependencies": {
-    "react": "16.0.0-alpha.12",
-    "react-native": "0.47.1",
-    "react-native-markdown-view": "^1.0.0"
+    "react-native-markdown-view": "^1.1.4"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
